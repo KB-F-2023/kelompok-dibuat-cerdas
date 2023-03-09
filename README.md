@@ -3,6 +3,6 @@
 ### Anggota Kelompok 3
 | Nama                         | NRP        |
 | ---------------------------- | -----------|
+| Timothy Hosi Budianto        | 5025211098 |
 | Yohanes Teguh Ukur Ginting   | 5025211179 |
 | Shazia Ingeyla Naveeda       | 5025211203 |
-| Timothy Hosi Budianto        | 5025211098 |
